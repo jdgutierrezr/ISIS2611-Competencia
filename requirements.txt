@@ -5,6 +5,7 @@ scikit-learn
 lightgbm
 
 # Deep Learning
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 torch
 transformers
 sentencepiece
