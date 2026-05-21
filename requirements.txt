@@ -1,0 +1,18 @@
+# Core ML / Data
+numpy
+pandas
+scikit-learn
+lightgbm
+
+# Deep Learning
+torch
+transformers
+sentencepiece
+protobuf
+
+# NLP
+nltk
+
+# Notebook
+ipykernel
+ipywidgets
